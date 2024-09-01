@@ -1,0 +1,73 @@
+      <!--<div class="grid grid-cols-2 grid-rows-2 auto-rows-fr gap-8 h-auto">
+        <div class="h-full justify-between"> 
+          <h5 class="text-center text-2xl font-serif font-semibold">
+            Random project
+          </h5>
+          <div class="mt-3 backdrop-blur-1xl bg-gray-800/60 rounded-3xl px-5 py-5">
+            <section class="text-center font-serif text-lg">
+              <p class="inline-block mr-1 text-white">This was a solar system project that I did with Tkinter</p>
+              <p class="inline-block text-black">not even close to being realistic lol</p>
+              <p class="text-white">hope you like it :D</p>
+            </section>
+            <section>
+              <img class="rounded-xl mx-auto mt-3 w-[70%] h-full" src="assets\gifs\solar system.gif" alt="solar system gif">
+            </section>
+          </div> 
+        </div>
+        
+        <div class="h-full justify-between">
+          <h5 class="text-center text-2xl font-serif font-semibold">
+            Sketch of this page
+          </h5>
+          <div class="mt-3 backdrop-blur-1xl bg-gray-800/60 rounded-3xl px-5 py-5">
+            <section class="text-center font-serif text-lg">
+              <p class="inline-block mr-1 text-white">As silly as it looks, this paint sketch is what I used as reference for this homepage</p>
+              <p class="inline-block"></p>
+              <p></p>
+            </section>
+            <section>
+              <img class="rounded-3xl mx-auto mt-3 w-[70%] h-full" src="assets\images\idealol.png" alt="paint sketch image">
+            </section>
+          </div>
+        </div>
+      </div>-->
+
+
+      <article class="backdrop-blur-xl rounded-3xl bg-white/20 mt-52 mx-32 px-7">
+      <h3 class="text-left text-3xl font-serif font-bold text-black">
+        My Blog  
+      </h3>
+
+      <!--Cols-->
+      <div class="container mx-auto p-6 grid grid-cols-2 gap-4">
+        <div class="col-span-1 flex flex-col p-4">
+          <h5 class="text-center text-2xl font-serif font-semibold">
+            Random project
+          </h5>
+          <div class="mt-3 backdrop-blur-1xl bg-gray-800/60 rounded-3xl px-5 py-5  h-96">
+            <section class="text-center font-serif text-lg">
+              <p class="mr-1 text-white">This was a solar system project that I did with Tkinter</p>
+              <p class="text-black">not even close to being realistic lol</p>
+              <p class="text-white">hope you like it :D</p>
+            </section>
+            <section>
+              <img class="rounded-xl mx-auto mt-3 w-[60%]" src="assets\gifs\solar system.gif" alt="solar system gif">
+            </section>
+          </div> 
+          
+        </div>
+        <div class="col-span-1 flex flex-col p-4">
+          <h5 class="text-center text-2xl font-serif font-semibold">
+            Sketch of this page
+          </h5>
+          <div class="mt-3 backdrop-blur-1xl bg-gray-800/60 rounded-3xl px-5 py-5  h-96">
+            <section class="text-center font-serif text-lg">
+              <p class="mr-1 text-white">As silly as it looks, this paint sketch is what I used as reference for this homepage</p>
+            </section>
+            <section>
+              <img class="rounded-3xl mx-auto mt-16 mb-3 w-[60%]" src="assets\images\idealol.png" alt="paint sketch image">
+            </section>
+          </div>
+        </div>
+      </div>
+    </article>

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imagediv{
+  margin: 3vh 2vh 3vh 2vh;
+  
+  background-image: url('../assets/images/bg index.jpg');
+
+}
