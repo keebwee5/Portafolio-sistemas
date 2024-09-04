@@ -71,3 +71,9 @@
         </div>
       </div>
     </article>
+
+    <p class="font-serif text-right text-lg mr-5">Hi, Welcome to my <span class="text-yellow-300">About me</span> page!</p>
+            <p class="font-serif text-right text-lg mr-5">My full name is Yohualli Ollin Luna Reyes</p>
+            <p>I'm a <span></span>Computer Systems Engineering student, a garage metal player, and a really bad skater</p>
+            <p>However, these are the things that I enjoy the most, and I want to show you some of them...</p>
+          </section>

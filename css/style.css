@@ -3,8 +3,14 @@
 @tailwind utilities;
 
 .imagediv{
-  margin: 3vh 2vh 3vh 2vh;
-  
-  background-image: url('../assets/images/bg index.jpg');
 
+  background-image: url('../assets/images/bg blured.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 5 0 5;
+  height: 90vh;
+  width: 98vw;
+
+  
 }
